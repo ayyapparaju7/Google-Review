@@ -1,4 +1,4 @@
-Google Reives
+**Google Review**
 This project provides a webpage that allows users to submit a star rating via a popup interface. Based on the user's rating:
 
 If the user selects 3 stars or more, they are redirected to a Google review page.
